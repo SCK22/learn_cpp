@@ -12,9 +12,5 @@ int main() {
   else {
     std::cout << "Fail.\n";
   }
-  
-  
-  
-  
-  
+
 }
