@@ -6,7 +6,7 @@ int main() {
   std::cout << "Enter you earth weight: ";
   std::cin >> earth_weight;
   
-  std::cout << "Select  a number corresponding to the plane you are on: \n";
+  std::cout << "Select  a number corresponding to the planet you are on: \n";
   std::cout << """1	Venus 2	Mars 3	Jupiter 4	Saturn 5	Uranus 6	Neptune\n""";
   
   float planet_x_weight;
